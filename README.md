@@ -1,16 +1,14 @@
-### Hi there 👋
+# Welcome to my page! 
 
-<!--
-**pandaxtc/pandaxtc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 My name's Waylon, and I'm studying Computer Science and Mathematics at UC Santa Cruz. My pronouns are he/him. 
 
-Here are some ideas to get you started:
+💭 I'm interested in distributed systems and web technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌐 You can find my resume and socials on my website, [waylonpeng.com](https://www.waylonpeng.com).
+
+📧 Feel free to reach out to me at `waylonpeng (at) gmail.com`.
+
+### 📊 Here's a breakdown of my last week.
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
