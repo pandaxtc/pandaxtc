@@ -12,6 +12,9 @@
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Perl       2 hrs 14 mins   ███████████▒░░░░░░░░░░░░░   44.98 % 
+Makefile   1 hr 47 mins    █████████░░░░░░░░░░░░░░░░   35.88 % 
+Other      49 mins         ████▒░░░░░░░░░░░░░░░░░░░░   16.68 % 
+Python     7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.46 % 
 ```
 <!--END_SECTION:waka-->
