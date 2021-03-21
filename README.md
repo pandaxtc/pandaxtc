@@ -6,7 +6,7 @@
 
 🌐 You can find my resume and socials on my website, [waylonpeng.com](https://www.waylonpeng.com).
 
-📧 Feel free to reach out to me at `waylonpeng (at) gmail.com`.
+📧 Feel free to reach out to me at `waylonpeng (at) gmail (dot) com`.
 
 ### 📊 Here's a breakdown of my last week.
 
