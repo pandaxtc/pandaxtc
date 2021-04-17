@@ -12,6 +12,6 @@
 
 <!--START_SECTION:waka-->
 ```text
-HTML       1 min           ███████████████████▓░░░░░   79.02 % 
+
 ```
 <!--END_SECTION:waka-->
