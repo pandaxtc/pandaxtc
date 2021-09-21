@@ -12,6 +12,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+YAML     12 mins         ███████████████████████░░   92.28 % 
+Rust     1 min           ██░░░░░░░░░░░░░░░░░░░░░░░   07.72 % 
 ```
 <!--END_SECTION:waka-->
