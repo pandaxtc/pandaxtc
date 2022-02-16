@@ -12,6 +12,8 @@
 
 <!--START_SECTION:waka-->
 ```text
+Total: 16 mins
+
 Python       14 mins         ██████████████████████▓░░   90.52 % 
 Markdown     1 min           ██▒░░░░░░░░░░░░░░░░░░░░░░   09.29 % 
 ```
