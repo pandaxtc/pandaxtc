@@ -1,6 +1,6 @@
 # Welcome to my page! 
 
-👋 My name's Waylon, and I'm studying Computer Science and Mathematics at UC Santa Cruz. My pronouns are he/him. 
+👋 My name's Waylon, and I'm a Security Engineer at [Nuro](https://nuro.ai). My pronouns are he/him. 
 
 💭 I'm interested in distributed systems and web technologies.
 
