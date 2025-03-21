@@ -4,6 +4,6 @@
 
 💭 I'm interested in distributed systems and web technologies.
 
-🌐 You can find my resume and socials on my website, [waylonpeng.com](https://www.waylonpeng.com).
+🌐 You can find my resume [on my website](https://www.waylon.sh).
 
 📧 Feel free to reach out to me at `waylonpeng (at) gmail (dot) com`.
