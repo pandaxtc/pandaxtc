@@ -1,8 +1,8 @@
 # Welcome to my page! 
 
-👋 My name's Waylon, and I'm a Software Engineer at the Space Sciences Lab at UC Berkeley. My pronouns are he/him. 
+👋 My name's Waylon, and I'm a Ground Systems Engineer at the Space Sciences Lab at UC Berkeley. My pronouns are he/him. 
 
-💭 I'm interested in distributed systems and web technologies.
+💭 I'm interested in cybersecurity, distributed systems and web technologies.
 
 🌐 You can find my resume [on my website](https://www.waylon.sh).
 
